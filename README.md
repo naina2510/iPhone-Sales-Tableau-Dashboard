@@ -1,4 +1,4 @@
-iPhone Sales Tableau Dashboard
+IPhone Sales Tableau Dashboard
 
 Project Overview
 
